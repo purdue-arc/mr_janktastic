@@ -1,6 +1,3 @@
-[submodule "DynamixelSDK"]
-	path = DynamixelSDK
-	url = https://github.com/ROBOTIS-GIT/DynamixelSDK
 [submodule "dynamixel-workbench"]
 	path = dynamixel-workbench
 	url = https://github.com/ROBOTIS-GIT/dynamixel-workbench
