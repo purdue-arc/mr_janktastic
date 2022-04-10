@@ -1,0 +1,4 @@
+{
+    "ros.distro": "noetic",
+    "cmake.sourceDirectory": "${workspaceFolder}/mrjank_control"
+}

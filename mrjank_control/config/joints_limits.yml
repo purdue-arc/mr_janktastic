@@ -1,0 +1,28 @@
+joint_1:
+  ID: 1
+  Max_Position: 300
+  Min_Position: 0
+joint_2:
+  ID: 2
+  Max_Position: 300
+  Min_Position: 0
+joint_3:
+  ID: 3
+  Max_Position: 300
+  Min_Position: 0
+joint_4:
+  ID: 4
+  Max_Position: 300
+  Min_Position: 0
+joint_5:
+  ID: 5
+  Max_Position: 300
+  Min_Position: 0
+joint_6:
+  ID: 6
+  Max_Position: 300
+  Min_Position: 0
+gripper:
+  ID: 7
+  Max_Position: 300
+  Min_Position: 0
